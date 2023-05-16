@@ -1,7 +1,7 @@
 # Agile-final-project
 ## Agile-final-project for Honorary Certification 
 
-> _As a learner, in Coursera, currently enrolling the DevOps Software Engineering course, I will do the final project,from the Agile and Scrum training 
+> As a learner, in Coursera, currently enrolling the DevOps Software Engineering course, I will do the final project,from the Agile and Scrum training 
 
 ### Expectation
 
